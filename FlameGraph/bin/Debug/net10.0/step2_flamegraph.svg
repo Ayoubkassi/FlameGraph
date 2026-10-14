@@ -1,0 +1,254 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1495" height="274" viewBox="0 0 1495 274">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g><title>Main(): 300 samples</title>
+<rect x="0" y="252" width="1499.0" height="21" fill="#F4A26C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="4" y="267" font-family="Arial,sans-serif" font-size="11" fill="#222222">Main()</text>
+<g><title>ProcessRequests(): 300 samples</title>
+<rect x="0" y="230" width="1499.0" height="21" fill="#F0A147" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="4" y="245" font-family="Arial,sans-serif" font-size="11" fill="#222222">ProcessRequests()</text>
+<g><title>HandleRequest(): 300 samples</title>
+<rect x="0" y="208" width="1499.0" height="21" fill="#E76232" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="4" y="223" font-family="Arial,sans-serif" font-size="11" fill="#222222">HandleRequest()</text>
+<g><title>LookupUser(): 60 samples</title>
+<rect x="0" y="186" width="299.0" height="21" fill="#EB493D" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="4" y="201" font-family="Arial,sans-serif" font-size="11" fill="#222222">LookupUser()</text>
+<g><title>CacheGet(): 37 samples</title>
+<rect x="0" y="164" width="184.0" height="21" fill="#E1BF6B" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="4" y="179" font-family="Arial,sans-serif" font-size="11" fill="#222222">CacheGet()</text>
+<g><title>CalculatePrice(): 29 samples</title>
+<rect x="0" y="142" width="144.0" height="21" fill="#E5B876" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="4" y="157" font-family="Arial,sans-serif" font-size="11" fill="#222222">CalculatePrice()</text>
+<g><title>GetTaxRate(): 29 samples</title>
+<rect x="0" y="120" width="144.0" height="21" fill="#EFA152" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="4" y="135" font-family="Arial,sans-serif" font-size="11" fill="#222222">GetTaxRate()</text>
+<g><title>ApplyDiscount(): 6 samples</title>
+<rect x="0" y="98" width="29.0" height="21" fill="#F1D04B" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 6 samples</title>
+<rect x="0" y="76" width="29.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 5 samples</title>
+<rect x="0" y="54" width="24.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 23 samples</title>
+<rect x="30" y="98" width="114.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="34" y="113" font-family="Arial,sans-serif" font-size="11" fill="#222222">SerializeResponse()</text>
+<g><title>LogRequest(): 19 samples</title>
+<rect x="30" y="76" width="94.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 1 samples</title>
+<rect x="145" y="142" width="4.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 7 samples</title>
+<rect x="150" y="142" width="34.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 6 samples</title>
+<rect x="150" y="120" width="29.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>DatabaseQuery(): 23 samples</title>
+<rect x="185" y="164" width="114.0" height="21" fill="#DA8044" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="189" y="179" font-family="Arial,sans-serif" font-size="11" fill="#222222">DatabaseQuery()</text>
+<g><title>CalculatePrice(): 5 samples</title>
+<rect x="185" y="142" width="24.0" height="21" fill="#E5B876" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>GetTaxRate(): 5 samples</title>
+<rect x="185" y="120" width="24.0" height="21" fill="#EFA152" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>ApplyDiscount(): 3 samples</title>
+<rect x="185" y="98" width="14.0" height="21" fill="#F1D04B" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 3 samples</title>
+<rect x="185" y="76" width="14.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 2 samples</title>
+<rect x="185" y="54" width="9.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 1 samples</title>
+<rect x="200" y="98" width="4.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 1 samples</title>
+<rect x="200" y="76" width="4.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>ParseRow(): 15 samples</title>
+<rect x="210" y="142" width="74.0" height="21" fill="#E1CB37" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>CalculatePrice(): 9 samples</title>
+<rect x="210" y="120" width="44.0" height="21" fill="#E5B876" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>GetTaxRate(): 9 samples</title>
+<rect x="210" y="98" width="44.0" height="21" fill="#EFA152" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>ApplyDiscount(): 3 samples</title>
+<rect x="210" y="76" width="14.0" height="21" fill="#F1D04B" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 3 samples</title>
+<rect x="210" y="54" width="14.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 2 samples</title>
+<rect x="210" y="32" width="9.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 6 samples</title>
+<rect x="225" y="76" width="29.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 4 samples</title>
+<rect x="225" y="54" width="19.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 1 samples</title>
+<rect x="255" y="120" width="4.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 5 samples</title>
+<rect x="260" y="120" width="24.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 4 samples</title>
+<rect x="260" y="98" width="19.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 3 samples</title>
+<rect x="285" y="142" width="14.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 1 samples</title>
+<rect x="285" y="120" width="4.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>ValidateInput(): 240 samples</title>
+<rect x="300" y="186" width="1199.0" height="21" fill="#E54C3E" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="304" y="201" font-family="Arial,sans-serif" font-size="11" fill="#222222">ValidateInput()</text>
+<g><title>LookupUser(): 240 samples</title>
+<rect x="300" y="164" width="1199.0" height="21" fill="#EB493D" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="304" y="179" font-family="Arial,sans-serif" font-size="11" fill="#222222">LookupUser()</text>
+<g><title>CacheGet(): 142 samples</title>
+<rect x="300" y="142" width="709.0" height="21" fill="#E1BF6B" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="304" y="157" font-family="Arial,sans-serif" font-size="11" fill="#222222">CacheGet()</text>
+<g><title>CalculatePrice(): 99 samples</title>
+<rect x="300" y="120" width="494.0" height="21" fill="#E5B876" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="304" y="135" font-family="Arial,sans-serif" font-size="11" fill="#222222">CalculatePrice()</text>
+<g><title>GetTaxRate(): 99 samples</title>
+<rect x="300" y="98" width="494.0" height="21" fill="#EFA152" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="304" y="113" font-family="Arial,sans-serif" font-size="11" fill="#222222">GetTaxRate()</text>
+<g><title>ApplyDiscount(): 27 samples</title>
+<rect x="300" y="76" width="134.0" height="21" fill="#F1D04B" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="304" y="91" font-family="Arial,sans-serif" font-size="11" fill="#222222">ApplyDiscount()</text>
+<g><title>LogRequest(): 1 samples</title>
+<rect x="300" y="54" width="4.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 26 samples</title>
+<rect x="305" y="54" width="129.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="309" y="69" font-family="Arial,sans-serif" font-size="11" fill="#222222">SerializeResponse()</text>
+<g><title>LogRequest(): 21 samples</title>
+<rect x="305" y="32" width="104.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="309" y="47" font-family="Arial,sans-serif" font-size="11" fill="#222222">LogRequest()</text>
+<g><title>LogRequest(): 3 samples</title>
+<rect x="435" y="76" width="14.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 66 samples</title>
+<rect x="450" y="76" width="329.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="454" y="91" font-family="Arial,sans-serif" font-size="11" fill="#222222">SerializeResponse()</text>
+<g><title>LogRequest(): 54 samples</title>
+<rect x="450" y="54" width="269.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="454" y="69" font-family="Arial,sans-serif" font-size="11" fill="#222222">LogRequest()</text>
+<g><title>LogRequest(): 3 samples</title>
+<rect x="795" y="120" width="14.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 40 samples</title>
+<rect x="810" y="120" width="199.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="814" y="135" font-family="Arial,sans-serif" font-size="11" fill="#222222">SerializeResponse()</text>
+<g><title>LogRequest(): 34 samples</title>
+<rect x="810" y="98" width="169.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="814" y="113" font-family="Arial,sans-serif" font-size="11" fill="#222222">LogRequest()</text>
+<g><title>DatabaseQuery(): 98 samples</title>
+<rect x="1010" y="142" width="489.0" height="21" fill="#DA8044" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="1014" y="157" font-family="Arial,sans-serif" font-size="11" fill="#222222">DatabaseQuery()</text>
+<g><title>CalculatePrice(): 41 samples</title>
+<rect x="1010" y="120" width="204.0" height="21" fill="#E5B876" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="1014" y="135" font-family="Arial,sans-serif" font-size="11" fill="#222222">CalculatePrice()</text>
+<g><title>GetTaxRate(): 41 samples</title>
+<rect x="1010" y="98" width="204.0" height="21" fill="#EFA152" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="1014" y="113" font-family="Arial,sans-serif" font-size="11" fill="#222222">GetTaxRate()</text>
+<g><title>ApplyDiscount(): 16 samples</title>
+<rect x="1010" y="76" width="79.0" height="21" fill="#F1D04B" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 1 samples</title>
+<rect x="1010" y="54" width="4.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 15 samples</title>
+<rect x="1015" y="54" width="74.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 13 samples</title>
+<rect x="1015" y="32" width="64.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 1 samples</title>
+<rect x="1090" y="76" width="4.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 24 samples</title>
+<rect x="1095" y="76" width="119.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="1099" y="91" font-family="Arial,sans-serif" font-size="11" fill="#222222">SerializeResponse()</text>
+<g><title>LogRequest(): 17 samples</title>
+<rect x="1095" y="54" width="84.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>ParseRow(): 51 samples</title>
+<rect x="1215" y="120" width="254.0" height="21" fill="#E1CB37" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="1219" y="135" font-family="Arial,sans-serif" font-size="11" fill="#222222">ParseRow()</text>
+<g><title>CalculatePrice(): 33 samples</title>
+<rect x="1215" y="98" width="164.0" height="21" fill="#E5B876" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="1219" y="113" font-family="Arial,sans-serif" font-size="11" fill="#222222">CalculatePrice()</text>
+<g><title>GetTaxRate(): 33 samples</title>
+<rect x="1215" y="76" width="164.0" height="21" fill="#EFA152" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="1219" y="91" font-family="Arial,sans-serif" font-size="11" fill="#222222">GetTaxRate()</text>
+<g><title>ApplyDiscount(): 12 samples</title>
+<rect x="1215" y="54" width="59.0" height="21" fill="#F1D04B" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 11 samples</title>
+<rect x="1215" y="32" width="54.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 10 samples</title>
+<rect x="1215" y="10" width="49.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 21 samples</title>
+<rect x="1275" y="54" width="104.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<text x="1279" y="69" font-family="Arial,sans-serif" font-size="11" fill="#222222">SerializeResponse()</text>
+<g><title>LogRequest(): 14 samples</title>
+<rect x="1275" y="32" width="69.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 2 samples</title>
+<rect x="1380" y="98" width="9.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 16 samples</title>
+<rect x="1390" y="98" width="79.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 11 samples</title>
+<rect x="1390" y="76" width="54.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>SerializeResponse(): 6 samples</title>
+<rect x="1470" y="120" width="29.0" height="21" fill="#E6994C" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+<g><title>LogRequest(): 4 samples</title>
+<rect x="1470" y="98" width="19.0" height="21" fill="#EEB758" stroke="#ffffff" stroke-width="0.5"/>
+</g>
+</svg>

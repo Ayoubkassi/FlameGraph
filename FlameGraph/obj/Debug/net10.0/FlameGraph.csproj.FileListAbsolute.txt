@@ -1,0 +1,14 @@
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/bin/Debug/net10.0/FlameGraph
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/bin/Debug/net10.0/FlameGraph.deps.json
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/bin/Debug/net10.0/FlameGraph.runtimeconfig.json
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/bin/Debug/net10.0/FlameGraph.dll
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/bin/Debug/net10.0/FlameGraph.pdb
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/obj/Debug/net10.0/FlameGraph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/obj/Debug/net10.0/FlameGraph.AssemblyInfoInputs.cache
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/obj/Debug/net10.0/FlameGraph.AssemblyInfo.cs
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/obj/Debug/net10.0/FlameGraph.csproj.CoreCompileInputs.cache
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/obj/Debug/net10.0/FlameGraph.dll
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/obj/Debug/net10.0/refint/FlameGraph.dll
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/obj/Debug/net10.0/FlameGraph.pdb
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/obj/Debug/net10.0/FlameGraph.genruntimeconfig.cache
+/Users/a.kassi/RiderProjects/FlameGraph/FlameGraph/obj/Debug/net10.0/ref/FlameGraph.dll
